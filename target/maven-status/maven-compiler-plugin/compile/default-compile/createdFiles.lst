@@ -1,0 +1,8 @@
+com\portfolio\proyrm\Controller\persona.class
+com\portfolio\proyrm\Controller\PersonaController.class
+com\portfolio\proyrm\Entity\Persona.class
+com\portfolio\proyrm\ProyrmApplication.class
+com\portfolio\proyrm\Interface\Personas.class
+com\portfolio\proyrm\Service\ImpPersonaService.class
+com\portfolio\proyrm\Repository\IPersonaRepository.class
+com\portfolio\proyrm\Interface\IPersonaService.class
